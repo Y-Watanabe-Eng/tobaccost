@@ -32,7 +32,7 @@ code {
   color: var(--white);
   margin-right: auto;
   margin-left: auto;
-  width: 1000px;
+  width: 80%;
   min-height: 100vh;
 }
 
