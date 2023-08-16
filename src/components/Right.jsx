@@ -9,7 +9,7 @@ export const Right = (props) => {
     return (
 
         <div className="grid grid-cols-2">
-            <div>
+            <div className="pt-5">
                 <div className="h-12">
                     <h3>計算結果</h3>
                 </div>
