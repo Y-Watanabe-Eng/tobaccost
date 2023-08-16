@@ -11,21 +11,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh;
-}
+  background-image: url("./tobaccost.jpg");
+  background-position: center;
+  background-size: cover;
+  background-color: #282c34;}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-.tobaccost-bg {
-  margin: 0;
-  padding: 0;
-  background-image: url("./tobaccost.jpg");
-  height: 100vh;
-  background-position: center;
-  background-size: cover;
-  background-color: #282c34;
 }
 
 .container {
