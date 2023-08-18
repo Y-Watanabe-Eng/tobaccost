@@ -80,6 +80,7 @@ input {
 }
 
 .results-input {
+  margin-right: 5px;
   background-color: transparent;
 }
 
