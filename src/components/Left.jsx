@@ -29,7 +29,7 @@ export const Left = (props) => {
             </div>
             <div className="h-12">
                 <p><input 
-                className="w-16 text-black"
+                className="w-12 text-black"
                 type="number"
                 value={price}
                 onChange={onChangePrice}
@@ -37,7 +37,7 @@ export const Left = (props) => {
             </div>
             <div className="h-12">
                 <p><input 
-                className="w-16 text-black"
+                className="w-12 text-black"
                 type="number"
                 value={box}
                 onChange={onChangeBox}
@@ -45,7 +45,7 @@ export const Left = (props) => {
             </div>
             <div className="h-12">
                 <p><input 
-                className="w-16 text-black"
+                className="w-12 text-black"
                 type="number"
                 value={num}
                 onChange={onChangeNum}
