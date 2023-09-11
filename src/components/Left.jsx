@@ -13,7 +13,7 @@ export const Left = (props) => {
                 <h3>情報入力</h3>
             </div>
             <div className="h-12">
-                <p>たぱこの値段（1箱）：</p>
+                <p>1箱の値段：</p>
             </div>
             <div className="h-12">
                 <p>1箱の本数：</p>
