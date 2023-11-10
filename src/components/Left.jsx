@@ -9,7 +9,7 @@ export const Left = (props) => {
   
         <div className="grid grid-cols-2 pt-5">
             <div>
-            <div className="h-12 text-left">              
+            <div className="h-12 inline-block text-left">              
                 <h3 className="text-left">情報入力</h3>
             </div>
             <div className="h-12 text-left">
