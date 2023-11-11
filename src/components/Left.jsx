@@ -8,8 +8,8 @@ export const Left = (props) => {
     return (
   
         <div className="grid grid-cols-2 pt-5">
-            <div className="ml-2">
-            <div className="ml-2 h-12">              
+            <div className="w-full">
+            <div className="w-full h-12">              
                 <h3>情報入力</h3>
             </div>
             <div className="h-12">
