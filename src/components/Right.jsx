@@ -10,7 +10,7 @@ export const Right = (props) => {
 
         <div className="grid grid-cols-2 pt-5">
             <div className="inline-block">
-                <div className="h-12">
+                <div className="h-12 inline-block">
                     <h3>計算結果</h3>
                 </div>
                 <div className="h-12">
