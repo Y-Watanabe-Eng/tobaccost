@@ -10,14 +10,14 @@ export const Left = (props) => {
         <div className="grid grid-cols-2 pt-5">
             <div className="inline-block">
             <div className="h-12 inline-block text-left">              
-                <h3>テスト情報入力</h3>
+                <h3>情報入力</h3>
             </div>
             <div className="h-12 text-left">
                 <p className="h-12">1箱の値段：</p>
-            </div><br/>
+            </div>
             <div className="h-12 text-left">
                 <p className="h-12">1箱の本数：</p>
-            </div><br/>
+            </div>
             <div className="h-12 text-left">
                 <p className="h-12">1日に吸う本数：</p>
             </div>
