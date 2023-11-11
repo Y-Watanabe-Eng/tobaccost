@@ -8,9 +8,9 @@ export const Right = (props) => {
 
     return (
 
-        <div className="grid grid-cols-2 pt-5">
-            <div className="inline-block">
-                <div className="h-12 inline-block">
+        <div className="grid grid-cols-2 w-full pt-5">
+            <div className="w-full　ml-4">
+                <div className="h-12">
                     <h3>計算結果</h3>
                 </div>
                 <div className="h-12">
